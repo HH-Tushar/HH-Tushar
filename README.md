@@ -2,8 +2,8 @@
  I am from Bangladesh 🇧🇩 .Currently I'm completing my BSC in CSE and working on developing my logical skills.
 
 Skills & Expreances:      
-* 💻 HTML,CSS,JS,wordpress.     
-* 🖥️ c,java.
+* 💻 HTML, CSS, JS, wordpress.     
+* 🖥️ c, java.
 
 
 
