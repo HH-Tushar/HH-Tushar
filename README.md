@@ -1,5 +1,5 @@
 ### Hi there 👋, This is Hasibul Hasan Tushar
- I am from Bangladesh 🇧🇩 .Currently I'm completing my BSC in CSE and working to develop my logical skills.
+ I am from Bangladesh 🇧🇩 .Currently I'm completing my BSC in CSE and working on developing my logical skills.
 
 Skills & Expreances:      
 * 💻 HTML,CSS,JS,wordpress.     
