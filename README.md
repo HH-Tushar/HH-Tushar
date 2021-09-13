@@ -3,7 +3,8 @@
 
 Skills & Expreances:      
 * 💻 HTML, CSS, JS, wordpress.     
-* 🖥️ c, java.
+* 🖥️ c, Data Structure & Algo, java.
+* 🖥️ Numerical Analysis.
 
 
 
