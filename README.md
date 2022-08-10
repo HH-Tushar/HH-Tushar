@@ -2,9 +2,10 @@
  ## This is Hasibul Hasan Tushar
  I am from Bangladesh 🇧🇩 .Currently I'm completing my BSC in CSE and working on developing my logical skills.
 
-Skills & Expreances:      
+Skills & Expreances: 
+* 🖥️ Flutter ,c, Data Structure & Algo, java.
 * 💻 HTML, CSS, JS, wordpress.     
-* 🖥️ c, Data Structure & Algo, java.
+
 * 🖥️ Numerical Analysis.
 
 
