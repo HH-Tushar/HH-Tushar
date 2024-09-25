@@ -1,10 +1,11 @@
 ### Hi there 👋, 
  ## This is Hasibul Hasan Tushar
- I am from Bangladesh 🇧🇩 .Currently I'm completing my BSC in CSE and working on developing my logical skills.
+ I am from Bangladesh 🇧🇩 .Currently I'm working as a Software Engineer at Grilexit in Bangladesh.
 
 Skills & Expreances: 
-* 🖥️ Flutter ,c, Data Structure & Algo, java.
-* 💻 HTML, CSS, JS, php.     
+* 🖥️ Flutter, c, Dart, Data Structure & Algo.
+* 💻 Svelte, Tailwindcss, Type Script ,HTML, CSS, JS.     
+* 💻 Firebase.     
 
 
 <!-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HH-Tushar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | -->
